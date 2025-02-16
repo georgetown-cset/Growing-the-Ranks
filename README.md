@@ -12,7 +12,7 @@ The specific sources of data in Table 1 are as follows:
 * R&D expenditure data are sourced from the National Center for Science and Engineer Statistics' *Higher Education Research and Development (HERD) Survey,* [HERD](https://ncses.nsf.gov/surveys/higher-education-research-development/2023 "HERD")
 * The definition of STEM fields is sourced from the Department of Homeland Security's [*Study in the States*](https://studyinthestates.dhs.gov/stem-opt-hub/additional-resources/stem-opt-extension-overview) which defines the list of degree programs that comprise STEM.
 
-## Table 1:  R2 and R2-aspiring (a.k.a., "R") HBCUs as of 2023
+## Table 1:  R2 and R2-aspiring (a.k.a., "R3") HBCUs as of 2023
 
 | Classification | Institution Name | Research Doctorates 2023 | Research Doctorates 3 Year Average | R&D Expenditures Total 2023 | R&D Expenditures Total 3 Year Average |
 | :---: |  :---: | :---: | :---: | :---: | :---:  |
