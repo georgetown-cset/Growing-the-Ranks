@@ -1,6 +1,6 @@
 # Annex for *Growing the Ranks of Top Research Institutions from Untapped Sources* 
 
-This Annex provides the supporting data for the article *Growing the Ranks of Top Research Institutions from Untapped Sources* published in [*The HBCU Digest*](https://educationnewsflash.substack.com/ "HBCU Digest").
+This Annex provides the supporting data for the article [*Growing the Ranks of Top Research Institutions from Untapped Sources*](https://educationnewsflash.substack.com/p/howards-r1-achievement-is-great-hbcu) published in [*The HBCU Digest*](https://educationnewsflash.substack.com/ "HBCU Digest").
 
 
 Table 1 below presents 2023 totals for research Ph.D. conferrals and R&D expenditure for the 29 research doctorate-granting HBCU institutions that are classified as R2 or potentially aspire to R2 classification under the Carnegie research classification system, as well as the average of these values over the past three years (2021 - 2023). Starting in 2025 Carnegie will use the highest of these two numbers (current total and 3-year average) when determining research classification status. 
